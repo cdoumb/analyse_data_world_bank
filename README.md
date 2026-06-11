@@ -25,10 +25,10 @@ sur la période 2010-2023, basée sur les données de la Banque Mondiale.
 
 ##  Structure du projet
 projet-eda-afrique/
-│
-├── analyse.ipynb    # Notebook principal
-├── data.csv         # Dataset Banque Mondiale
-└── README.md        # Ce fichier
+
+─ analyse.ipynb    # Notebook principal
+─ data.csv         # Dataset Banque Mondiale
+─ README.md        # Ce fichier
 
 ##  Insights clés
 - Maurice domine le PIB par habitant en Afrique
