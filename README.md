@@ -62,7 +62,7 @@ projet-eda-afrique/
 ![Sénégal PIB](images/senegal_gdp.png)
 
 ### Comparaison de l'inflation — 5 grands pays
-![Inflation](images/inflation_comparison.png)
+![Inflation](images/inflation_comparaison.png)
 
 ### Relation entre chômage et PIB par habitant
 ![Corrélation](images/correlation_chomage_pib.png)
