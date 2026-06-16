@@ -46,12 +46,6 @@ et population.
 ---
 
 
-##  Structure du projet
-projet-eda-afrique/
-
-- analyse.ipynb    # Notebook principal
-- data.csv         # Dataset Banque Mondiale
-- README.md        # Ce fichier
 =======
 ##  Visualisations
 
