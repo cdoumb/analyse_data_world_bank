@@ -1,0 +1,27 @@
+# Fichiers de données
+data.csv
+*.csv
+*.xlsx
+
+# Environnement Python
+venv/
+env/
+.venv/
+ENV/
+
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
