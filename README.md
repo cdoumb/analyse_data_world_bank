@@ -1,4 +1,4 @@
-# 📊 Analyse Exploratoire — Indicateurs Économiques Africains
+#  Analyse Exploratoire — Indicateurs Économiques Africains
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
@@ -45,7 +45,7 @@ et population.
 
 ---
 
-<<<<<<< HEAD
+
 ##  Structure du projet
 projet-eda-afrique/
 
@@ -71,7 +71,7 @@ projet-eda-afrique/
 ![Top 10 Croissance](images/top10_croissance.png)
 
 ---
->>>>>>> d133623 (feat: ajout .gitignore, requirements.txt et README professionnel)
+
 
 ##  Insights clés
 
@@ -129,11 +129,11 @@ jupyter notebook analyse.ipynb
 ---
 
 ##  Source des données
-<<<<<<< HEAD 
+
 World Bank Open Data via Kaggle
 =======
 
-- **Fournisseur :** [World Bank Open Data](https://data.worldbank.org/)
+- **Fournisseur :** [World Bank Open Data](https://www.kaggle.com/code/yusefadel/world-bank-global-economic-indicators-2010-2025)
 - **Source d'accès :** [Kaggle – World Bank African Indicators](https://www.kaggle.com/)
 - **Période couverte :** 2010–2023
 - **Pays couverts :** 53 pays africains
@@ -156,4 +156,4 @@ World Bank Open Data via Kaggle
 ##  Licence
 
 Ce projet est sous licence [MIT](https://opensource.org/licenses/MIT).
->>>>>>> d133623 (feat: ajout .gitignore, requirements.txt et README professionnel)
+
